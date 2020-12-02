@@ -1,0 +1,13 @@
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.exe
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.deps.json
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.runtimeconfig.json
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.runtimeconfig.dev.json
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.dll
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\bin\Debug\netcoreapp3.1\AdventOfCode20.pdb
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.csprojAssemblyReference.cache
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.AssemblyInfoInputs.cache
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.AssemblyInfo.cs
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.csproj.CoreCompileInputs.cache
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.dll
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.pdb
+C:\Users\Thrallia\Documents\Visual Studio 2019\Projects\AdventOfCode20\AdventOfCode20\AdventOfCode20\obj\Debug\netcoreapp3.1\AdventOfCode20.genruntimeconfig.cache
